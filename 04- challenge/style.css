@@ -1,0 +1,21 @@
+header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 40px;
+    margin-top: -10px;
+    text-align: center;
+
+}
+
+h2 {
+    display: inline;
+    float: left;
+    position: fixed left;
+    font-size: 30px;
+    line-height: 41.2px;
+    margin-top: -10px;
+    width: 24.5%;
+    list-style-type:none;
+
+}
+
